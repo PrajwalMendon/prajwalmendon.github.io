@@ -2441,6 +2441,7 @@ input, select, textarea {
 
 		.icon.solid:before {
 			font-weight: 900 !important;
+			vertical-align: middle;
 		}
 
 		.icon.brands:before {
